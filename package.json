@@ -1,0 +1,17 @@
+{
+  "name": "pavanmg",
+  "version": "1.0.0",
+  "description": "Лендинг представляет собой одностраничный сайт, предназначенный для представления информации о Pavan MG, его технологическом стеке и проектах. Сайт разработан с использованием HTML5, CSS3.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.5"
+  }
+}
